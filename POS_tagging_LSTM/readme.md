@@ -19,3 +19,4 @@ Please make sure that the datasets are there in the UD_English-Atis folder.
 You can test the model with your sentence by running the file in the terminal and then entering the sentence.
 
 >Details of the best model and its parameters are in the report.
+- Note the dataset is downloaded from Universal Dependencies dataset and this repository doesnt hold any rights of the dataset, the dataset is uploaded for educational purposes only.
