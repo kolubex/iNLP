@@ -1,7 +1,7 @@
 # Introduction
 This is a collection of the coursework of `intro to NLP course in IIITH taught by Prof. Manish Shrivastava.`
 
-> Please drop a ⭐ if you like the work or found it useful and feel free to fork the repository.
+> Please drop a ⭐ if you like the work or found it useful and feel free to fork the repository. And feel free to raise an issue if you find any bugs in the repo.
 ## 1. List of Assignments
 1. Statistical Language Modelling using Kneseer Ney Smoothing and Witten Bell Smoothing. It also includes the implementation of LSTM based language model.
 2. POS tagging using LSTM.
