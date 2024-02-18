@@ -5,6 +5,7 @@
 ### <center>Aryan Chandramania | Lakshmipathi Balaji | Akshit Kumar </center>  
 
 ---
+> Please drop a ⭐ if you like the work or found it useful and feel free to fork the repository.
 
 ## Code
 The code is in the form of Python. The code is in the `code` folder.

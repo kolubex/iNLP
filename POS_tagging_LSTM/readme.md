@@ -1,5 +1,7 @@
-## Process followed in code implementation
+This folder is implementation of Neural POS Tagging as Part of iNLP course.
 
+> Please drop a ⭐ if you like the work or found it useful and feel free to fork the repository.
+## Process followed in code implementation
 1. Loaded Datasets in the form => (0, 'she', 'PRON')
 2. Then Used get_words_and_tags function to get the words and tags in a sequence sentence wise.
 3. Used the training data to give indices for the valid and test tags.
