@@ -1,0 +1,47 @@
+# sent_id = 0001.train
+# text = what is the cost of a round trip flight from pittsburgh to atlanta beginning on april twenty fifth and returning on may sixth
+1	what	what	PRON	_	PronType=Int,Rel	0	root	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	the	the	DET	_	PronType=Art	4	det	_	_
+4	cost	cost	NOUN	_	Number=Sing	1	nsubj	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	a	a	DET	_	PronType=Art	7	det	_	_
+7	round	round	NOUN	_	Number=Sing	4	nmod	_	_
+8	trip	trip	NOUN	_	Number=Sing	7	compound	_	_
+9	flight	flight	NOUN	_	Number=Sing	7	nmod	_	_
+10	from	from	ADP	_	_	11	case	_	_
+11	pittsburgh	Pittsburgh	PROPN	_	Number=Sing	9	nmod	_	_
+12	to	to	ADP	_	_	13	case	_	_
+13	atlanta	Atlanta	PROPN	_	Number=Sing	9	nmod	_	_
+14	beginning	begin	VERB	_	Tense=Pres|VerbForm=Part	9	nmod	_	_
+15	on	on	ADP	_	_	16	case	_	_
+16	april	April	NOUN	_	Number=Sing	14	nmod	_	_
+17	twenty	twenty	NUM	_	NumType=Card	16	nummod	_	_
+18	fifth	five	ADJ	_	Degree=Pos|NumType=Ord	17	compound	_	_
+19	and	and	CCONJ	_	_	20	cc	_	_
+20	returning	return	VERB	_	Tense=Pres|VerbForm=Part	14	conj	_	_
+21	on	on	ADP	_	_	22	case	_	_
+22	may	May	NOUN	_	Number=Sing	20	nmod	_	_
+23	sixth	six	ADJ	_	Degree=Pos|NumType=Ord	22	amod	_	_
+
+# sent_id = 0002.train
+# text = now i need a flight leaving fort worth and arriving in denver no later than 2 pm next monday
+1	now	now	ADV	_	Degree=Pos	3	advmod	_	_
+2	i	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	need	need	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	_	PronType=Art	5	det	_	_
+5	flight	flight	NOUN	_	Number=Sing	3	obj	_	_
+6	leaving	leave	VERB	_	Tense=Pres|VerbForm=Part	5	acl	_	_
+7	fort	Fort	PROPN	_	Number=Sing	6	obl	_	_
+8	worth	Worth	PROPN	_	Number=Sing	7	flat	_	_
+9	and	and	CCONJ	_	_	10	cc	_	_
+10	arriving	arrive	VERB	_	Tense=Pres|VerbForm=Part	6	conj	_	_
+11	in	in	ADP	_	_	12	case	_	_
+12	denver	Denver	PROPN	_	Number=Sing	10	obl	_	_
+13	no	no	DET	_	PronType=Art	14	advmod	_	_
+14	later	late	ADJ	_	Degree=Pos	6	advmod	_	_
+15	than	than	ADP	_	_	17	case	_	_
+16	2	2	NUM	_	NumType=Card	17	nummod	_	_
+17	pm	pm	NOUN	_	Number=Sing	6	nmod	_	_
+18	next	next	ADJ	_	Degree=Pos	19	nmod	_	_
+19	monday	Monday	NOUN	_	Number=Sing	17	nmod	_	_
